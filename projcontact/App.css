@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+  /* border-top: 1px solid blue;
+  border-bottom: 1px solid blue; */
+}
+
+#search_btn { 
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+#img_unknown {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
